@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Tik-Tac-Toe/static/css/main.109ac464.chunk.css",
+    "main.js": "/Tik-Tac-Toe/static/js/main.5e7da8e5.chunk.js",
+    "main.js.map": "/Tik-Tac-Toe/static/js/main.5e7da8e5.chunk.js.map",
+    "runtime-main.js": "/Tik-Tac-Toe/static/js/runtime-main.938befa7.js",
+    "runtime-main.js.map": "/Tik-Tac-Toe/static/js/runtime-main.938befa7.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/Tik-Tac-Toe/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.23f7c06e.chunk.js": "/Tik-Tac-Toe/static/js/2.23f7c06e.chunk.js",
+    "static/js/2.23f7c06e.chunk.js.map": "/Tik-Tac-Toe/static/js/2.23f7c06e.chunk.js.map",
+    "index.html": "/Tik-Tac-Toe/index.html",
+    "precache-manifest.bc5f9877d3da42301f247bb622915851.js": "/Tik-Tac-Toe/precache-manifest.bc5f9877d3da42301f247bb622915851.js",
+    "service-worker.js": "/Tik-Tac-Toe/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/Tik-Tac-Toe/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.109ac464.chunk.css.map": "/Tik-Tac-Toe/static/css/main.109ac464.chunk.css.map",
+    "static/js/2.23f7c06e.chunk.js.LICENSE.txt": "/Tik-Tac-Toe/static/js/2.23f7c06e.chunk.js.LICENSE.txt",
+    "static/media/Box.css": "/Tik-Tac-Toe/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.938befa7.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.23f7c06e.chunk.js",
+    "static/css/main.109ac464.chunk.css",
+    "static/js/main.5e7da8e5.chunk.js"
+  ]
+}
